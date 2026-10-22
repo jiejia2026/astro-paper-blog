@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jiejia2026.github.io/astro-paper-blog/sitemap-index.xml
